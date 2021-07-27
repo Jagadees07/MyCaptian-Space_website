@@ -1,0 +1,82 @@
+* {
+	font-family: Josefin Sans;
+}
+.nav_brand {
+	text-align: center;
+}
+.nav-item {
+	text-align: center;
+}
+#navbarsExample08 {
+	font-size: 21px;
+}
+
+/*Service*/
+
+#serice_offered {
+	margin-top: 30px;
+}
+.serice-col {
+	padding: 20px;
+	text-align: center;
+}
+i {
+	font-size: 50px;
+}
+.service-content {
+	margin-top: 40px;
+}
+
+/*Gallery*/
+#gallery {
+	margin-top: 100px;
+}
+button {
+	margin-top: 60px;
+}
+
+/*Footer*/
+.logo {
+	padding-left: 5px;
+}
+
+footer {
+	padding: 20px;
+	margin-top: 50px;
+	background-color: black;
+	color: #ffff;
+}
+h3 {
+	font-size: 27px;
+	font-weight: bold;
+}
+ul {
+	list-style: none;
+	text-decoration: none;
+	}
+
+	.footer-link {
+		color: #ffff;
+		font-size: 21px;
+	}
+
+	.footer-link:hover {
+		color: #ffff;
+		text-decoration: underline;
+	}
+
+	.contact {
+		font-size: 20px;
+	}
+	.copyright {
+		float: left;
+	}
+	.country {
+		float: right;
+	}
+	.Copyright {
+		margin-top: 2px;
+		padding-right: 100px;
+		padding-left: 100px;
+		margin-bottom: 5px;
+	}
